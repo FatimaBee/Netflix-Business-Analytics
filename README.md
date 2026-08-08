@@ -38,7 +38,7 @@ An interactive Power BI dashboard designed to analyse Netflix's content catalogu
 
 ### Dashboard Preview
 
-"C:\Users\fatim\OneDrive\Desktop\PROJECT\Netflix_Business_Analytics\screenshots\Dashboard.png"
+Dashboard.png
 
 
 
